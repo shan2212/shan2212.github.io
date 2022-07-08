@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/shan2212/shan2212.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This space is primarily for Tech Talks. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Agenda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are tons of pages available in the internet which talks about technologies and concepts. 
+However, very few of them talks about real production issues. 
+
+This page is dedicated to answer you questions and provide you the ultimate knowledge on the subject. 
+
+My main objective is to deliver high quality content to all my readers. 
+
+
+## About Me
+
+I'm working as a Linux Engineer since 2013. I’m responsible for maintaining, securing, and troubleshooting infra for multiple clients. 
+
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I will share articles on:
 
-- Bulleted
-- List
+- `Linux`
+- `Python` 
+- `Ansible`
+- `Puppet`
+- `GIT`
+- `SaltStack`
+- `Splunk` 
+- `Cloud`
+- `Docker Containers`
+- `Jenkins`
+- `Kubernetes`
+- `Helm`
+- `Observability`
+   
+   & Many More
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This setup is in its initial phase and will be LIVE soon. 
 
-### Jekyll Themes
+![header](https://user-images.githubusercontent.com/89134716/177989363-72ceb43e-15c3-444a-828d-ed1a5e87d50d.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shan2212/shan2212.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Thanks a lot for your support and patience..
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**SEE YOU SOON!!**
+
